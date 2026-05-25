@@ -51,6 +51,6 @@ Programı açtığınızda karşınıza çıkan ekrana lisans kodunuzu yapışt�
 
 Teknik destek, lisans işlemleri veya özel yazılım talepleriniz için bize ulaşabilirsiniz:
 
-* 📧 **E-Posta:** [iletisim@benimyazilim.com](mailto:iletisim@benimyazilim.com)
+* 📧 **E-Posta:** [destek@benimyazilim.com](mailto:destek@benimyazilim.com)
 * 🌐 **Web Sitesi:** [benimyazilim.com](https://www.benimyazilim.com)
 * 📸 **Instagram:** [@benimyazilim](https://instagram.com/benimyazilim)
