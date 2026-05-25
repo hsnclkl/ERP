@@ -2,6 +2,9 @@
 
 BenimYazılım ERP, küçük ve orta ölçekli işletmelerin tüm satış, stok ve ön muhasebe süreçlerini tek bir merkezden yönetmeleri için geliştirilmiş yeni nesil bir masaüstü yazılımıdır. Modern arayüzü ve yüksek performanslı altyapısı sayesinde işletmenizin hızına hız katar.
 
+<img width="1894" height="816" alt="erp" src="https://github.com/user-attachments/assets/fb0a716b-2040-4770-9120-5e57db8c73d6" />
+
+
 ---
 
 ## ✨ Öne Çıkan Özellikler
